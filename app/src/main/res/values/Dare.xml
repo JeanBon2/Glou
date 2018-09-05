@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string name="dare_0">"embrasse la personne sur ta gauche"</string>
+        <string name="dare_1">"enlève ton T-shirt"</string>
+        <string name="dare_2">"fais un massage à [NOM]"</string>
+        <string name="dare_3">"fais des caresses à [NOM] sur la partie de son corps qu'il aura choisi"</string>
+        <string name="dare_4">"danse la macarena"</string>
+        <string name="dare_5">"fais 6 squats"</string>
+        <string name="dare_6">"fais 1 pompe avec une seule main"</string>
+        <string name="dare_7">"fais 8 pompes"</string>
+        <string name="dare_8">"fais toi une coupe avec du gel"</string>
+        <string name="dare_9">"envoie un message à ton ex"</string>
+        <string name="dare_10">"appelle ta maman pour lui dire que tu vas te marier"</string>
+    
+    <string-array name="Dare">
+        <item>@string/dare_0</item>
+        <item>@string/dare_1</item>
+        <item>@string/dare_2</item>
+        <item>@string/dare_3</item>
+        <item>@string/dare_4</item>
+        <item>@string/dare_5</item>
+        <item>@string/dare_6</item>
+        <item>@string/dare_7</item>
+        <item>@string/dare_8</item>
+        <item>@string/dare_9</item>
+        <item>@string/dare_10</item>
+    </string-array>
+</resources>

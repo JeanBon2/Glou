@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+        <string name="peopleWith_0">"la plus stupide"</string>
+        <string name="peopleWith_1">"la plus intelligente"</string>
+        <string name="peopleWith_2">"la plus belle"</string>
+        <string name="peopleWith_3">"la plus torchée"</string>
+        <string name="peopleWith_4">"la plus alcoolique"</string>
+        <string name="peopleWith_5">"la plus sobre"</string>
+        <string name="peopleWith_6">"qui parle le mieux anglais"</string>
+        <string name="peopleWith_7">"avec la plus forte poitrine"</string>
+        <string name="peopleWith_8">"avec le plus gros pénis"</string>
+        <string name="peopleWith_9">"qui a le plus d'applis sur son téléphone"</string>
+        <string name="peopleWith_10">"la plus agée"</string>
+        <string name="peopleWith_11">"la plus jeune"</string>
+        <string name="peopleWith_12">"la plus grande"</string>
+        <string name="peopleWith_13">"la plus petite"</string>
+        <string name="peopleWith_14">"avec le plus petit pénis"</string>
+        <string name="peopleWith_15">"avec les cheveux les plus longs"</string>
+        <string name="peopleWith_16">"qui a fait sa première fois le plus jeune"</string>
+        <string name="peopleWith_17">"qui a fait sa première fois le plus tardivement"</string>
+        <string name="peopleWith_18">"aux histoires d'amour les plus compliquées"</string>
+        <string name="peopleWith_19">"qui s'est inscrite en premier sur Facebook"</string>
+        <string name="peopleWith_20">"qui tiens beaucoup trop aux flammes sur Snapchat"</string>
+        <string name="peopleWith_21">"avec le plus d'argent sur son compte bancaire"</string>
+        <string name="peopleWith_22">"qui a fait le plus de chemin pour venir"</string>
+        <string name="peopleWith_23">"qui est en train de lire"</string>
+        <string name="peopleWith_24">"qui a le verre le plus rempli"</string>
+        <string name="peopleWith_25">"qui a le verre le moins rempli"</string>
+
+    <string-array name="PeopleWith">
+        <item>@string/peopleWith_0</item>
+        <item>@string/peopleWith_1</item>
+        <item>@string/peopleWith_2</item>
+        <item>@string/peopleWith_3</item>
+        <item>@string/peopleWith_4</item>
+        <item>@string/peopleWith_5</item>
+        <item>@string/peopleWith_6</item>
+        <item>@string/peopleWith_7</item>
+        <item>@string/peopleWith_8</item>
+        <item>@string/peopleWith_9</item>
+        <item>@string/peopleWith_10</item>
+        <item>@string/peopleWith_11</item>
+        <item>@string/peopleWith_12</item>
+        <item>@string/peopleWith_13</item>
+        <item>@string/peopleWith_14</item>
+        <item>@string/peopleWith_15</item>
+        <item>@string/peopleWith_16</item>
+        <item>@string/peopleWith_17</item>
+        <item>@string/peopleWith_18</item>
+        <item>@string/peopleWith_19</item>
+        <item>@string/peopleWith_20</item>
+        <item>@string/peopleWith_21</item>
+        <item>@string/peopleWith_22</item>
+        <item>@string/peopleWith_23</item>
+        <item>@string/peopleWith_24</item>
+        <item>@string/peopleWith_25</item>
+    </string-array>
+</resources>

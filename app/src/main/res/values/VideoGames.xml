@@ -1,0 +1,25 @@
+<resources>
+    <string-array name="VideoGames">
+        <item>"Dofus"</item>
+        <item>"League of Legends"</item>
+        <item>"Call of Duty"</item>
+        <item>"Mario Kart"</item>
+        <item>"Mario Bros"</item>
+        <item>"Need for Speed"</item>
+        <item>"Rocket League"</item>
+        <item>"Krosmaga"</item>
+        <item>"Hearthstone"</item>
+        <item>"Grand Theft Auto"</item>
+        <item>"Starcraft"</item>
+        <item>"Warcraft"</item>
+        <item>"TrackMania"</item>
+        <item>"Osu"</item>
+        <item>"FIFA"</item>
+        <item>"Nintendogs"</item>
+        <item>"Temple Run"</item>
+        <item>"Doodle Jump"</item>
+        <item>"Duel Quizz"</item>
+        <item>"Fruit Ninja"</item>
+        <item>"Just Dance"</item>
+    </string-array>
+</resources>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choice_start">"Tu préfères : "</string>
+    <string name="choices_0">"être un Nazi ou un juif durant la seconde guerre mondiale"</string>
+    <string name="choices_1">"voir la grippe ou la diahrée"</string>
+    <string name="choices_2">"avoir un pénis ou un vagin"</string>
+    <string name="choices_3">"coucher avec ton voisin de gauche ou de droite"</string>
+    <string name="choices_4">"coucher avec Brigitte ou Emmanuel Macron"</string>
+    <string name="choices_5">"sucer une bite ou te faire enculer"</string>
+    <string name="choices_6">"faire l'amour pendant des heures ou jouer à l'ordi toute la nuit"</string>
+    <string name="choices_7">"sucer une bite quand tu dis n'importe quoi ou alors te faire enculer quand tu dis quelque chose d'intelligent"</string>
+    <string name="choices_8">"tirer la barbe du père noël ou tirer la mère noël"</string>
+    <string name="choices_9">"t'appeler Cunégonde ou Clitorine"</string>
+    <string name="choices_10">"Google Chrome ou Firefox"</string>
+    <string name="choices_11">"iOS ou Android"</string>
+    <string name="choices_12">"Snapchat ou Instagram"</string>
+    <string name="choices_13">"porter des lunettes ou des lentilles"</string>
+    <string name="choices_14">"t'assoir sur un pénis et sucer un gateau ou t'asseoir sur un gateau et sucer un pénis"</string>
+    <string name="choices_15">"être comme la majorité ou être différent"</string>
+    <string name="choices_16">"participer aux Hunger Games ou être jeté dans le labyrinthe"</string>
+    <string name="choices_17">"un pain au chocolat ou une chocolatine"</string>
+    <string name="choices_18">"arrêter le temps ou déplacer les objets par la pensée"</string>
+    <string name="choices_19">"être milliardaire ou réaliser un voeu avec 5 secondes pour réfléchir"</string>
+    <string name="choices_20">"Batman ou Superman"</string>
+    <string name="choices_21">"aller au restaurant avec ta belle mère et elle paye ou aller au restaurant avec ta copine et tu payes"</string>
+    <string name="choices_22">"école d'ingénieur ou université"</string>
+    <string name="choices_23">"être intelligent mais tétraplégique ou être en parfaite santé mais con comme un manche"</string>
+    <string name="choices_24">"mourrir de froid ou de chaud"</string>
+    <string name="choices_26">"être entouré d'hommes ou de femmes uniquement"</string>
+    <string name="choices_27">"plonger dans le Rhône ou dans la Seine"</string>
+    <string name="choices_28">"avoir un monosourcil ou ne pas en avoir"</string>
+    <string name="choices_29">"savoir comment ou quand tu vas mourir"</string>
+    <string name="choices_30">"t'appeler Thomas Tfarci ou Jean Bon"</string>
+    <string name="choices_31">"Netflix ou Amazon"</string>
+    <string name="choices_32">"marque ou contrefaçon"</string>
+    <string name="choices_33">"suivre une formation en apprentissage ou en cursus classique"</string>
+    <string name="choices_34">"Microsoft ou Apple"</string>
+    <string name="choices_35">"être chauve ou avoir une calvitie"</string>
+    <string name="choices_36">"Gandalf ou Dumbledore"</string>
+    <string name="choices_37">"Emma Watson ou Scarlett Johansson"</string>
+    <string name="choices_38">"Harry Potter ou Star-Wars"</string>
+    <string name="choices_39">"utiliser un trieur ou des cahiers"</string>
+    <string name="choices_40">"te faire tatouer ou te daire percer"</string>
+    <string name="choices_41">"écrire avec un BIC ou un stylo plume"</string>
+    <string name="choices_42">"sac à dos ou sac à main"</string>
+    <string name="choices_43">"Burger King ou MacDonald"</string>
+    <string name="choices_44">"aller à Disneyland ou au Parc Asterix"</string>
+    <string name="choices_45">"tromper ou se faire tromper"</string>
+    <string name="choices_46">"pizza ou kebab"</string>
+    <string name="choices_47">"le format papier ou le format pdf"</string>
+    <string name="choices_48">"le sport ou l'e-sport"</string>
+    <string name="choices_49">"Deezer ou Spotify"</string>
+    <string name="choices_50">"chier un oursin ou te faire mordre le sexe"</string>
+    <string name="choices_51">"perdre l'usage de tes mains ou de tes jambes"</string>
+    <string name="choices_52">"avoir une crête ou une coupe au bol"</string>
+    <string name="choices_53">"Marvel ou DC Comics"</string>
+    
+    
+    <string-array name="Choices">
+        <item>@string/choices_0</item>
+        <item>@string/choices_1</item>
+        <item>@string/choices_2</item>
+        <item>@string/choices_3</item>
+        <item>@string/choices_4</item>
+        <item>@string/choices_5</item>
+        <item>@string/choices_6</item>
+        <item>@string/choices_7</item>
+        <item>@string/choices_8</item>
+        <item>@string/choices_9</item>
+        <item>@string/choices_10</item>
+        <item>@string/choices_11</item>
+        <item>@string/choices_12</item>
+        <item>@string/choices_13</item>
+        <item>@string/choices_14</item>
+        <item>@string/choices_15</item>
+        <item>@string/choices_16</item>
+        <item>@string/choices_17</item>
+        <item>@string/choices_18</item>
+        <item>@string/choices_19</item>
+        <item>@string/choices_20</item>
+        <item>@string/choices_21</item>
+        <item>@string/choices_22</item>
+        <item>@string/choices_23</item>
+        <item>@string/choices_24</item>
+        <item>@string/choices_26</item>
+        <item>@string/choices_27</item>
+        <item>@string/choices_28</item>
+        <item>@string/choices_29</item>
+        <item>@string/choices_30</item>
+        <item>@string/choices_31</item>
+        <item>@string/choices_32</item>
+        <item>@string/choices_33</item>
+        <item>@string/choices_34</item>
+        <item>@string/choices_35</item>
+        <item>@string/choices_36</item>
+        <item>@string/choices_37</item>
+        <item>@string/choices_38</item>
+        <item>@string/choices_39</item>
+        <item>@string/choices_40</item>
+        <item>@string/choices_41</item>
+        <item>@string/choices_42</item>
+        <item>@string/choices_43</item>
+        <item>@string/choices_44</item>
+        <item>@string/choices_45</item>
+        <item>@string/choices_46</item>
+        <item>@string/choices_47</item>
+        <item>@string/choices_48</item>
+        <item>@string/choices_49</item>
+        <item>@string/choices_50</item>
+        <item>@string/choices_51</item>
+        <item>@string/choices_52</item>
+        <item>@string/choices_53</item>
+
+    </string-array>
+</resources>

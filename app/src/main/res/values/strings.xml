@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Glou!</string>
+    <string name="sip">"gorgée"</string>
+    <string name="sips">"gorgées"</string>
+    <string name="drink">"bois"</string>
+    <string name="distribute">"distribue"</string>
+    <string name="gulp">"cul-sec"</string>
+    <string name="a_gulp">"un cul-sec"</string>
+    <string name="end_your_drink">"finis ton verre"</string>
+    <string name="end_his_drink">"finis son verre"</string>
+    <string name="cite">"Cite"</string>
+    <string name="last_one">"le premier qui ne trouve pas"</string>
+    <string name="or">"ou"</string>
+    <string name="the_person">"La personne"</string>
+    <string name="minority">"La minorité"</string>
+
+    <string name="choices">"Choisis entre..."</string>
+    <string name="dare">"Oseras-tu?"</string>
+    <string name="drinkIF">"Bah alors ?"</string>
+    <string name="list">"Enumérations"</string>
+    <string name="peopleWith">"Les gens"</string>
+    <string name="truth">"La vérité si je mens!"</string>
+
+    <string-array name="Categories">
+        <item>@string/choices</item>
+        <item>@string/dare</item>
+        <item>@string/drinkIF</item>
+        <item>@string/list</item>
+        <item>@string/peopleWith</item>
+        <item>@string/truth</item>
+    </string-array>
+
+
+    <string name="name">"\[NOM\]"</string>
+    <string name="car">"\[VOITURE\]"</string>
+    <string name="game">"\[JEU\]"</string>
+    <string name="minutes">"\[MINUTES\]"</string>
+    <string name="letter">"\[LETTRE\]"</string>
+    <string name="vegetables">"\[LEGUMES\]"</string>
+    <string name="month">"\[MOIS\]"</string>
+    <string name="year">"\[ANNEE\]"</string>
+    <string name="sexual_practice">"\[PRATIQUE SEXUELLE\]"</string>
+    <string name="school_cursus">"\[CURSUS SCOLAIRE\]"</string>
+    <string name="actor">"\[ACTEUR\]"</string>
+    <string name="singer">"\[CHANTEUR\]"</string>
+    <string name="continent">"\[CONTINENT\]"</string>
+    <string name="color">"\[COULEUR\]"</string>
+    <string name="operator">"\[OPERATEUR\]"</string>
+    <string name="sport">"\[SPORT\]"</string>
+
+    <string name="add">"Ajouter"</string>
+    <string name="hint">"Nom du joueur"</string>
+    <string name="start_hint">"Appuie sur l'écran à la fin de chaque défi"</string>
+    <string name="tutorial">"Tutoriel"</string>
+
+</resources>

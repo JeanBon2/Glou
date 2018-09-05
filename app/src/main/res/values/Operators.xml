@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Operators">
+        <item>"Orange"</item>
+        <item>"SFR"</item>
+        <item>"Free"</item>
+        <item>"Numericable"</item>
+        <item>"Bouygues Telecom"</item>
+        <item>"Vodaphone"</item>
+    </string-array>
+</resources>

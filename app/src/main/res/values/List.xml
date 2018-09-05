@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="list_0">"un film avec [ACTEUR]"</string>
+    <string name="list_1">"un film Disney"</string>
+    <string name="list_2">"un mot pour désigner le sexe masculin"</string>
+    <string name="list_3">"un mot pour désigner le sexe féminin"</string>
+    <string name="list_4">"un moyen de transport"</string>
+    <string name="list_5">"un jeu vidéo"</string>
+    <string name="list_6">"une console de jeux"</string>
+    <string name="list_7">"une ville commençant par la lettre [LETTRE]"</string>
+    <string name="list_8">"une pièce où on peut faire l'amour"</string>
+    <string name="list_9">"une position du kamasutra"</string>
+    <string name="list_10">"une marque de voiture"</string>
+    <string name="list_11">"un alcool"</string>
+    <string name="list_12">"une marque de téléphone"</string>
+    <string name="list_13">"un ustensile de cuisine"</string>
+    <string name="list_14">"une maison de production de film X"</string>
+    <string name="list_15">"une actrice X"</string>
+    <string name="list_16">"un acteur X"</string>
+    <string name="list_17">"un coktail"</string>
+    <string name="list_18">"une figure de trotinette"</string>
+    <string name="list_19">"une catégorie de films X"</string>
+    <string name="list_20">"un accessoire sexuel"</string>
+    <string name="list_21">"un lieu insolite où tu as déjà fait l'amour"</string>
+    <string name="list_22">"un héros Marvel ou DC"</string>
+    <string name="list_23">"un truc qui coute moins d'un euros"</string>
+    <string name="list_24">"un signe du zodiac"</string>
+    <string name="list_25">"une chanson de [CHANTEUR]"</string>
+    <string name="list_26">"une entreprise du CAC40"</string>
+    <string name="list_27">"un pays qui se situe en [CONTINENT]"</string>
+    <string name="list_28">"un site de rencontre"</string>
+    <string name="list_29">"une banque"</string>
+    <string name="list_30">"une chaîne de supermarché"</string>
+    
+    <string-array name="List">
+        <item>@string/list_0</item>
+        <item>@string/list_1</item>
+        <item>@string/list_2</item>
+        <item>@string/list_3</item>
+        <item>@string/list_4</item>
+        <item>@string/list_5</item>
+        <item>@string/list_6</item>
+        <item>@string/list_7</item>
+        <item>@string/list_8</item>
+        <item>@string/list_9</item>
+        <item>@string/list_10</item>
+        <item>@string/list_11</item>
+        <item>@string/list_12</item>
+        <item>@string/list_13</item>
+        <item>@string/list_14</item>
+        <item>@string/list_15</item>
+        <item>@string/list_16</item>
+        <item>@string/list_17</item>
+        <item>@string/list_18</item>
+        <item>@string/list_19</item>
+        <item>@string/list_20</item>
+        <item>@string/list_21</item>
+        <item>@string/list_22</item>
+        <item>@string/list_23</item>
+        <item>@string/list_24</item>
+        <item>@string/list_25</item>
+        <item>@string/list_26</item>
+        <item>@string/list_27</item>
+        <item>@string/list_28</item>
+        <item>@string/list_29</item>
+        <item>@string/list_30</item>
+    </string-array>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    tools:context="com.glou.glou.Game"
+    android:fitsSystemWindows="true"
+    android:background="@color/Chocolate">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="44dp"
+        android:text="@string/app_name"
+        android:textColor="@color/White"
+        android:textSize="40sp" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="360dp"
+        android:padding="4dp"
+        android:scrollbars="vertical"
+        android:background="@color/DarkOrange"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="60dp"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginBottom="100dp"
+        android:gravity="center"/>
+
+    <Button
+        android:id="@+id/buttonStartGame"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/recyclerView"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="66dp"
+        android:text="@string/app_name" />
+
+    <Button
+        android:id="@+id/buttonAddPlayer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/buttonStartGame"
+        android:layout_alignBottom="@+id/buttonStartGame"
+        android:layout_alignStart="@+id/recyclerView"
+        android:text="@string/add" />
+
+</RelativeLayout>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Singers">
+        <item>"Orelsan"</item>
+        <item>"Kaaris"</item>
+        <item>"Marc Lavoine"</item>
+        <item>"Lio"</item>
+        <item>"AC/DC"</item>
+        <item>"Queen"</item>
+        <item>"Daniel Balavoine"</item>
+        <item>"Téléphone"</item>
+        <item>"Keen'v"</item>
+        <item>"M Pokora"</item>
+        <item>"Claude François"</item>
+        <item>"Jean-Jacques Goldman"</item>
+        <item>"Didier Super"</item>
+        <item>"Martin Garrix"</item>
+        <item>"Oldelaf"</item>
+        <item>"Avicii"</item>
+        <item>"David Guetta"</item>
+        <item>"Niska"</item>
+        <item>"Fatal Picards"</item>
+        <item>"Louise Attaque"</item>
+        <item>"Manau"</item>
+        <item>"Linkin Park"</item>
+        <item>"Shakira"</item>
+        <item>"Arctic Monkeys"</item>
+        <item>"Tryo"</item>
+        <item>"Green Day"</item>
+        <item>"Kyo"</item>
+        <item>"Maître Gims"</item>
+        <item>"Katty Perry"</item>
+        <item>"Sean Paul"</item>
+        <item>"Lartiste"</item>
+        <item>"The Beatles"</item>
+        <item>"Scorpion"</item>
+        <item>"Metallica"</item>
+        <item>"Police"</item>
+        <item>"Italobrothers"</item>
+        <item>"PNL"</item>
+        <item>"Jul"</item>
+        <item>"Europe"</item>
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="EyesColours">
+        <item>"bleus"</item>
+        <item>"verts"</item>
+        <item>"marrons"</item>
+        <item>"gris"</item>
+        <item>"bicolores"</item>
+    </string-array>
+</resources>

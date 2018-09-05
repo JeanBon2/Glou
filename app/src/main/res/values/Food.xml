@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Food">
+        <item>"les courgettes"</item>
+        <item>"le fenouil"</item>
+        <item>"les épinards"</item>
+        <item>"les pommes"</item>
+        <item>"les poires"</item>
+        <item>"les choux de Bruxelles"</item>
+        <item>"les carottes"</item>
+        <item>"la salade"</item>
+        <item>"les haricots"</item>
+        <item>"les petits poids"</item>
+        <item>"le céleri"</item>
+        <item>"la coriandre"</item>
+        <item>"l'ail"</item>
+        <item>"les artichauts"</item>
+        <item>"les asperges"</item>
+        <item>"la betterave"</item>
+        <item>"les cardons"</item>
+        <item>"les concombres"</item>
+        <item>"le chou-fleur"</item>
+        <item>"la courge"</item>
+        <item>"les endives"</item>
+        <item>"les lentilles"</item>
+        <item>"les navets"</item>
+        <item>"les poivrons"</item>
+        <item>"les radis"</item>
+        <item>"les tomates"</item>
+    </string-array>
+</resources>

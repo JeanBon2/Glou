@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Sports">
+        <item>"du judo"</item>
+        <item>"du football"</item>
+        <item>"du basketball"</item>
+        <item>"du Krav-Maga"</item>
+        <item>"des échecs"</item>
+        <item>"du monocycle"</item>
+        <item>"de l'escalade"</item>
+        <item>"de la sackline"</item>
+        <item>"du skateboard"</item>
+        <item>"de la trotinette"</item>
+        <item>"du ski"</item>
+        <item>"de l'ultimate"</item>
+        <item>"du tir à l'arc"</item>
+        <item>"du badminton"</item>
+        <item>"du tennis de table"</item>
+        <item>"du handball"</item>
+        <item>"de l'escrime"</item>
+        <item>"du kayak"</item>
+        <item>"de l'aviron"</item>
+        <item>"de la course à pieds"</item>
+        <item>"de la natation"</item>
+        <item>"de l'e-sport"</item>
+        <item>"du lancer"</item>
+        <item>"de l'athlétisme"</item>
+        <item>"de la gymanastique"</item>
+        <item>"de la musculation"</item>
+        <item>"du tennis"</item>
+        <item>"de la boxe"</item>
+        <item>"du VTT"</item>
+        <item>"de l'équitation"</item>
+        <item>"du rugby"</item>
+    </string-array>
+</resources>

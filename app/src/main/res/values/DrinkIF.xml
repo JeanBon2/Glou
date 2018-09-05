@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DrinkIF_0">"si tu as déjà joué à [JEU]"</string>
+    <string name="DrinkIF_1">"si tu as eu ton Bac avec mention"</string>
+    <string name="DrinkIF_2">"si tu as eu ton permis du premier coup"</string>
+    <string name="DrinkIF_3">"si tu trouves que cette application est cool"</string>
+    <string name="DrinkIF_4">"si tu t'es déjà fait enculé(e)"</string>
+    <string name="DrinkIF_5">"si tu n'as jamais sucé une bite"</string>
+    <string name="DrinkIF_6">"si tu es déjà rentré dans un sex-shop"</string>
+    <string name="DrinkIF_7">"si tu as déjà mélé sexe et nourriture"</string>
+    <string name="DrinkIF_8">"si tu as fait l'amour dans les 3 derniers jours"</string>
+    <string name="DrinkIF_9">"si tu as plus de 250 amis sur Facebook"</string>
+    <string name="DrinkIF_10">"si tu portes des lunettes"</string>
+    <string name="DrinkIF_11">"si tu as déjà couché avec la soeur ou le frère d'un pote"</string>
+    <string name="DrinkIF_12">"si une de tes parties de jambes en l'air à duré moins de [MINUTES] minutes"</string>
+    <string name="DrinkIF_13">"si tu as déjà vomi à cause de l'alcool"</string>
+    <string name="DrinkIF_14">"si tu es toujours vierge"</string>
+    <string name="DrinkIF_15">"si tu as eu plus de partenaires sexuels que [NOM]"</string>
+    <string name="DrinkIF_16">"si tu te déplaces majoritairement en voiture"</string>
+    <string name="DrinkIF_17">"si tu t'es déjà masturbé au travail ou à l'école"</string>
+    <string name="DrinkIF_18">"si tu n'as jamais réussi à finir avec une fille (je suis pas sûr de comprendre)"</string>
+    <string name="DrinkIF_19">"si tu t'es déjà endormi sur la cuvette des toilettes"</string>
+    <string name="DrinkIF_20">"si tu as utilisé une capote lors de ton dernier rapport sexuel"</string>
+    <string name="DrinkIF_21">"si tu as déjà utilisé un gode-ceinture"</string>
+    <string name="DrinkIF_22">"si tu as déjà eu un plan cul"</string>
+    <string name="DrinkIF_23">"si un de tes partenairs avait plus de 5 ans d'écart avec toi"</string>
+    <string name="DrinkIF_24">"si tu as déjà couché avec un/une mineur(e)"</string>
+    <string name="DrinkIF_25">"si tu t'es déjà endormi en cours"</string>
+    <string name="DrinkIF_26">"si tu as déjà fait l'amour en pensant à quelqu'un d'autre que ton partenaire"</string>
+    <string name="DrinkIF_27">"si la lingerie fine te fait fantasmer"</string>
+    <string name="DrinkIF_28">"si tu as visité plus de 8 pays"</string>
+    <string name="DrinkIF_29">"si tu n'es jamais parti à l'étrranger"</string>
+    <string name="DrinkIF_30">"si tu n'as jamais fumé"</string>
+    <string name="DrinkIF_31">"si tu as envoyé un SMS à ton ex après la rupture"</string>
+    <string name="DrinkIF_32">"si tu as déjà pensé à ton ex pendant que tu faisais l'amour"</string>
+    <string name="DrinkIF_33">"s'il y a un [LETTRE] dans ton prénom"</string>
+    <string name="DrinkIF_34">"si tu as déjà fantasmé sur un/une prof"</string>
+    <string name="DrinkIF_35">"si tu as un iPhone"</string>
+    <string name="DrinkIF_36">"si tu sais faire du pen-spining"</string>
+    <string name="DrinkIF_37">"si tu t'es déjà masturbé alors que tu n'étais pas seul dans la pièce"</string>
+    <string name="DrinkIF_38">"si tu t'es déjà fait opérer"</string>
+    <string name="DrinkIF_39">"si tu t'es déjà bourré la gueule tout seul"</string>
+    <string name="DrinkIF_40">"si tu n'es pas capable de lécher ton pied"</string>
+    <string name="DrinkIF_41">"si tu es inscrit sur Twitter"</string>
+    <string name="DrinkIF_42">"si tu as déjà mesuré ton pénis ou celui de ton partenaire"</string>
+    <string name="DrinkIF_43">"si tu es déjà passé dans le journal"</string>
+    <string name="DrinkIF_44">"si tu es déjà passé à la télé"</string>
+    <string name="DrinkIF_45">"si tu as déjà envoyé une photo de ton sexe"</string>
+    <string name="DrinkIF_46">"si tu as déjà demandé à ton partenaire si tu pouvais sortir sans lui/elle"</string>
+    <string name="DrinkIF_47">"si tu as installé Pokemon GO"</string>
+    <string name="DrinkIF_48">"si tu as déjà dépensé plus de 1000 € dans un seul produit"</string>
+    <string name="DrinkIF_49">"si tu es végétarien"</string>
+    <string name="DrinkIF_50">"si tu es vegan"</string>
+    <string name="DrinkIF_51">"si tu n'aimes pas les [LEGUMES]"</string>
+    <string name="DrinkIF_52">"si tu n'aimes pas le fromage"</string>
+    <string name="DrinkIF_53">"si tu es en couple"</string>
+    <string name="DrinkIF_54">"si tu as déjà fait un plan à 3 ou plus"</string>
+    <string name="DrinkIF_55">"si tu as déjà fraudé dans les transports en commun"</string>
+    <string name="DrinkIF_56">"si tu es en couple depuis plus d'un an"</string>
+    <string name="DrinkIF_57">"si la dernière fois que tu as vu un film c'était au cinéma"</string>
+    <string name="DrinkIF_58">"si tu es abonné à Netflix"</string>
+    <string name="DrinkIF_59">"si tu es blond(e)"</string>
+    <string name="DrinkIF_60">"si tu es roux/rousse"</string>
+    <string name="DrinkIF_61">"si tu es brun(e)"</string>
+    <string name="DrinkIF_62">"si tu es chauve ou que tu as une calvitie avancée"</string>
+    <string name="DrinkIF_63">"si tu as les yeux [COULEUR]"</string>
+    <string name="DrinkIF_64">"si tu pèses moins de 70 kilos"</string>
+    <string name="DrinkIF_65">"si tu mesures plus de 1,60 m"</string>
+    <string name="DrinkIF_66">"si tu aimes le goût du sexe de ton partenaire"</string>
+    <string name="DrinkIF_67">"si tu as déjà fait l'amour 5 fois ou plus dans la même journée"</string>
+    <string name="DrinkIF_68">"si tu as déjà pété en public"</string>
+    <string name="DrinkIF_69">"si tu es tombé malade cette semaine"</string>
+    <string name="DrinkIF_70">"si tu as déjà pissé debout"</string>
+    <string name="DrinkIF_71">"si tu es né au mois de [MOIS]"</string>
+    <string name="DrinkIF_72">"si tu es né entre avant [ANNEE]"</string>
+    <string name="DrinkIF_73">"si tu ne veux pas te marier"</string>
+    <string name="DrinkIF_74">"si tu sais pourquoi les flamants roses sont roses"</string>
+    <string name="DrinkIF_75">"si tu as déjà cassé une assiette"</string>
+    <string name="DrinkIF_76">"si tu as fait croire à tes frères/soeures qu'ils ont été adoptés"</string>
+    <string name="DrinkIF_77">"si tu as déjà utilisé les toilettes d'un avion"</string>
+    <string name="DrinkIF_78">"si tu as déjà renversé un verre dans ton assiette"</string>
+    <string name="DrinkIF_79">"si tu as déjà pété devant ton partenaire"</string>
+    <string name="DrinkIF_80">"si tu as déjà posté une photo sur Instagram"</string>
+    <string name="DrinkIF_81">"si tu as déjà fait [SPORT]"</string>
+    <string name="DrinkIF_82">"si tu n'aimes pas le café"</string>
+    <string name="DrinkIF_83">"si tu as déjà couché avec une personne rencontrée lors d'une soirée"</string>
+    <string name="DrinkIF_84">"si tu es déjà sorti cette semaine"</string>
+    <string name="DrinkIF_85">"si tu t'es déjà masturbé cette semaine"</string>
+    <string name="DrinkIF_86">"si ton téléphone est dans ta poche"</string>
+    <string name="DrinkIF_87">"si tu as déjà dépensé plus de 20 € dans un repas chez MacDonalds"</string>
+    <string name="DrinkIF_88">"si tu as participé au 24H00 de l'INSA"</string>
+    <string name="DrinkIF_89">"si tu t'es déjà fait jeter d'un bar"</string>
+    <string name="DrinkIF_90">"si tu as une [VOITURE]"</string>
+    <string name="DrinkIF_91">"si ton forfait provient de [OPERATEUR]"</string>
+    <string name="DrinkIF_92">"si tu t'es déjà fait tromper par un/une de tes partenaires"</string>
+    <string name="DrinkIF_93">"si tu as déjà eu un rattrapage"</string>
+    <string name="DrinkIF_94">"si tu as déjà séché les cours"</string>
+    <string name="DrinkIF_95">"si tu as déjà cassé ton téléphone"</string>
+    <string name="DrinkIF_96">"si tu as déjà perdu tes papiers"</string>
+    <string name="DrinkIF_97">"si tu as déjà complètement oublié un mot de passe"</string>
+    <string name="DrinkIF_98">"si tu as déjà branché une clé USB dans un sens, puis dans l'autre, puis dans l'autre"</string>
+    <string name="DrinkIF_99">"si tu as déjà trompé ton/ta partenaire"</string>
+    <string name="DrinkIF_100">"si tu as déjà surpris tes parents pendant l'acte"</string>
+    <string name="DrinkIF_101">"si tu l'as déjà fait sans capote alors que vous n'étiez pas dépisté"</string>
+    <string name="DrinkIF_102">"si la capote a déjà craqué"</string>
+    <string name="DrinkIF_103">"si tu l'as déjà fait avec un préservatif féminin"</string>
+    <string name="DrinkIF_104">"si tu as pu tester [PRATIQUE SEXUELLE]"</string>
+    <string name="DrinkIF_105">"si tu as déjà dragué un/une mineur(e)"</string>
+    <string name="DrinkIF_106">"si tu as fait [CURSUS SCOLAIRE]"</string>
+    <string name="DrinkIF_107">"si tu penses que ce n'est pas la taille qui compte"</string>
+    <string name="DrinkIF_108">"si tu habites au dessus d'Avignon "</string>
+    <string name="DrinkIF_109">"si tu ne connais pas ton numéro de téléphone"</string>
+    <string name="DrinkIF_110">"si tu as déjà envoyé un sexto"</string>
+    <string name="DrinkIF_111">"si tu n'as jamais fait de courses sur Internet"</string>
+    <string name="DrinkIF_112">"si tu as déjà simulé"</string>
+    <string name="DrinkIF_113">"si tu as déjà prétexté un mal de tête pour ne pas avoir à passer à l'acte"</string>
+    <string name="DrinkIF_114">"si tu n'as jamais joué au "je n'ai jamais""</string>
+    <string name="DrinkIF_115">"si tu n'as jamais passé l'aspirateur et aspiré quelque chose de vivant"</string>
+    <string name="DrinkIF_116">"si tu n'as jamais eu envie de quelqu'un dans cette pièce"</string>
+    <string name="DrinkIF_117">"si tu l'as déjà fait en discothèque"</string>
+    <string name="DrinkIF_118">"si tu t'es trompé de prénom pendant l'acte"</string>
+    <string name="DrinkIF_119">"si tu l'as déjà fait à l'école"</string>
+    <string name="DrinkIF_120">"si tu n'as jamais paratiqué l'adultère"</string>
+    <string name="DrinkIF_121">"si tu n'as jamais mangé d'insecte"</string>
+    <string name="DrinkIF_122">"si tu n'as jamais eue envie de la personne à ta droite"</string>
+    <string name="DrinkIF_123">"si tu as fait un rêve érotique cette semaine"</string>
+    <string name="DrinkIF_124">"si tu l'as déjà fait sur le plan de travil de la cuisine"</string>
+    <string name="DrinkIF_125">"si tu t'es déjà filmée en le faisant"</string>
+    <string name="DrinkIF_126">"si tu l'as fait avec ton animal de compagnie dans la même pièce"</string>
+    <string name="DrinkIF_127">"si tu as déjà testé les capotes fluos"</string>
+    <string name="DrinkIF_128">"si tu as déjà menti sur la taille de ta bite"</string>
+    <string name="DrinkIF_129">"si tu as déjà vomi en cours"</string>
+    <string name="DrinkIF_130">"si le sole de ton compte courant est inférieur à 1000 €"</string>
+
+    <string-array name="DrinkIF">
+        <item>@string/DrinkIF_0</item>
+        <item>@string/DrinkIF_1</item>
+        <item>@string/DrinkIF_2</item>
+        <item>@string/DrinkIF_3</item>
+        <item>@string/DrinkIF_4</item>
+        <item>@string/DrinkIF_5</item>
+        <item>@string/DrinkIF_6</item>
+        <item>@string/DrinkIF_7</item>
+        <item>@string/DrinkIF_8</item>
+        <item>@string/DrinkIF_9</item>
+        <item>@string/DrinkIF_10</item>
+        <item>@string/DrinkIF_11</item>
+        <item>@string/DrinkIF_12</item>
+        <item>@string/DrinkIF_13</item>
+        <item>@string/DrinkIF_14</item>
+        <item>@string/DrinkIF_15</item>
+        <item>@string/DrinkIF_16</item>
+        <item>@string/DrinkIF_17</item>
+        <item>@string/DrinkIF_18</item>
+        <item>@string/DrinkIF_19</item>
+        <item>@string/DrinkIF_20</item>
+        <item>@string/DrinkIF_21</item>
+        <item>@string/DrinkIF_22</item>
+        <item>@string/DrinkIF_23</item>
+        <item>@string/DrinkIF_24</item>
+        <item>@string/DrinkIF_25</item>
+        <item>@string/DrinkIF_26</item>
+        <item>@string/DrinkIF_27</item>
+        <item>@string/DrinkIF_28</item>
+        <item>@string/DrinkIF_29</item>
+        <item>@string/DrinkIF_30</item>
+        <item>@string/DrinkIF_31</item>
+        <item>@string/DrinkIF_32</item>
+        <item>@string/DrinkIF_33</item>
+        <item>@string/DrinkIF_34</item>
+        <item>@string/DrinkIF_35</item>
+        <item>@string/DrinkIF_36</item>
+        <item>@string/DrinkIF_37</item>
+        <item>@string/DrinkIF_38</item>
+        <item>@string/DrinkIF_39</item>
+        <item>@string/DrinkIF_40</item>
+        <item>@string/DrinkIF_41</item>
+        <item>@string/DrinkIF_42</item>
+        <item>@string/DrinkIF_43</item>
+        <item>@string/DrinkIF_44</item>
+        <item>@string/DrinkIF_45</item>
+        <item>@string/DrinkIF_46</item>
+        <item>@string/DrinkIF_47</item>
+        <item>@string/DrinkIF_48</item>
+        <item>@string/DrinkIF_49</item>
+        <item>@string/DrinkIF_50</item>
+        <item>@string/DrinkIF_51</item>
+        <item>@string/DrinkIF_52</item>
+        <item>@string/DrinkIF_53</item>
+        <item>@string/DrinkIF_54</item>
+        <item>@string/DrinkIF_55</item>
+        <item>@string/DrinkIF_56</item>
+        <item>@string/DrinkIF_57</item>
+        <item>@string/DrinkIF_58</item>
+        <item>@string/DrinkIF_59</item>
+        <item>@string/DrinkIF_60</item>
+        <item>@string/DrinkIF_61</item>
+        <item>@string/DrinkIF_62</item>
+        <item>@string/DrinkIF_63</item>
+        <item>@string/DrinkIF_64</item>
+        <item>@string/DrinkIF_65</item>
+        <item>@string/DrinkIF_66</item>
+        <item>@string/DrinkIF_67</item>
+        <item>@string/DrinkIF_68</item>
+        <item>@string/DrinkIF_69</item>
+        <item>@string/DrinkIF_70</item>
+        <item>@string/DrinkIF_71</item>
+        <item>@string/DrinkIF_72</item>
+        <item>@string/DrinkIF_73</item>
+        <item>@string/DrinkIF_74</item>
+        <item>@string/DrinkIF_75</item>
+        <item>@string/DrinkIF_76</item>
+        <item>@string/DrinkIF_77</item>
+        <item>@string/DrinkIF_78</item>
+        <item>@string/DrinkIF_79</item>
+        <item>@string/DrinkIF_80</item>
+        <item>@string/DrinkIF_81</item>
+        <item>@string/DrinkIF_82</item>
+        <item>@string/DrinkIF_83</item>
+        <item>@string/DrinkIF_84</item>
+        <item>@string/DrinkIF_85</item>
+        <item>@string/DrinkIF_86</item>
+        <item>@string/DrinkIF_87</item>
+        <item>@string/DrinkIF_88</item>
+        <item>@string/DrinkIF_89</item>
+        <item>@string/DrinkIF_90</item>
+        <item>@string/DrinkIF_91</item>
+        <item>@string/DrinkIF_92</item>
+        <item>@string/DrinkIF_93</item>
+        <item>@string/DrinkIF_94</item>
+        <item>@string/DrinkIF_95</item>
+        <item>@string/DrinkIF_96</item>
+        <item>@string/DrinkIF_97</item>
+        <item>@string/DrinkIF_98</item>
+        <item>@string/DrinkIF_99</item>
+        <item>@string/DrinkIF_100</item>
+        <item>@string/DrinkIF_101</item>
+        <item>@string/DrinkIF_102</item>
+        <item>@string/DrinkIF_103</item>
+        <item>@string/DrinkIF_104</item>
+        <item>@string/DrinkIF_105</item>
+        <item>@string/DrinkIF_106</item>
+        <item>@string/DrinkIF_107</item>
+        <item>@string/DrinkIF_108</item>
+        <item>@string/DrinkIF_109</item>
+        <item>@string/DrinkIF_110</item>
+        <item>@string/DrinkIF_111</item>
+        <item>@string/DrinkIF_112</item>
+        <item>@string/DrinkIF_113</item>
+        <item>@string/DrinkIF_114</item>
+        <item>@string/DrinkIF_115</item>
+        <item>@string/DrinkIF_116</item>
+        <item>@string/DrinkIF_117</item>
+        <item>@string/DrinkIF_118</item>
+        <item>@string/DrinkIF_119</item>
+        <item>@string/DrinkIF_120</item>
+        <item>@string/DrinkIF_121</item>
+        <item>@string/DrinkIF_122</item>
+        <item>@string/DrinkIF_123</item>
+        <item>@string/DrinkIF_124</item>
+        <item>@string/DrinkIF_125</item>
+        <item>@string/DrinkIF_126</item>
+        <item>@string/DrinkIF_127</item>
+        <item>@string/DrinkIF_128</item>
+        <item>@string/DrinkIF_129</item>
+        <item>@string/DrinkIF_130</item>
+
+    </string-array>
+</resources>

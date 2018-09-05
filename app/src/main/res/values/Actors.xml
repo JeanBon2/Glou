@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Actors">
+        <item>"Leonardo DiCaprio"</item>
+        <item>"Scarlett Johansson"</item>
+        <item>"Ewan McGregor"</item>
+        <item>"Johnny Depp"</item>
+        <item>"Jean Gabin"</item>
+        <item>"Ryan Gosling"</item>
+        <item>"Brad Pitt"</item>
+        <item>"Tom Cruise"</item>
+        <item>"Robert de Niro"</item>
+        <item>"Clint Eastwood"</item>
+        <item>"Gérard Depardieu"</item>
+        <item>"Nicolas Cage"</item>
+        <item>"Liam Neeson"</item>
+        <item>"Daniel Craig"</item>
+        <item>"Jack Nicholson"</item>
+        <item>"Bruce Willis"</item>
+        <item>"Jim Carrey"</item>
+        <item>"Bourvil"</item>
+        <item>"Louis de Funès"</item>
+        <item>"Coluche"</item>
+        <item>"Charlie Chaplin"</item>
+        <item>"George Clooney"</item>
+        <item>"Tobey Maguire"</item>
+        <item>"Harrison Ford"</item>
+        <item>"Hugh Jackman"</item>
+        <item>"Robert Downey Jr"</item>
+        <item>"François Cluzet"</item>
+        <item>"Omar Sy"</item>
+        <item>"Jean Dujardin"</item>
+        <item>"Morgan Freeman"</item>
+        <item>"Emma Stone"</item>
+        <item>"Emma Watson"</item>
+        <item>"Will Smith"</item>
+        <item>"Nicole Kidman"</item>
+        <item>"Natalie Portman"</item>
+        <item>"Jennifer Lawrence"</item>
+        <item>"Keira Knightley"</item>
+        <item>"Marion Cotillard"</item>
+        <item>"Sharon Stone"</item>
+        <item>"Selena Gomez"</item>
+        <item>"Angelina Jolie"</item>
+        <item>"Monica Belluci"</item>
+        <item>"Penelope Cruz"</item>
+        <item>"Julia Roberts"</item>
+        <item>"Jessica Chastain"</item>
+        <item>"Martin Freeman"</item>
+        <item>"Benedict Cumberbatch"</item>
+        <item>"Daniel Radcliffe"</item>
+        <item>"Alan Rickman"</item>
+    </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="SchoolCursus">
+        <item>"un DUT"</item>
+        <item>"une Licence"</item>
+        <item>"une Licence PRO"</item>
+        <item>"un BTS"</item>
+        <item>"un Master"</item>
+        <item>"une école d'ingénieur"</item>
+        <item>"une école de commerce"</item>
+    </string-array>
+</resources>

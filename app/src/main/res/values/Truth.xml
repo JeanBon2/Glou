@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="truth_0">"ton plus grand fantasme"</string>
+    <string name="truth_1">"la personne que tu aimes le plus dans cette pièce"</string>
+    <string name="truth_2">"ta position préférée"</string>
+    <string name="truth_3">"ce que tu détestes le plus chez ton/ta partenaire"</string>
+    <string name="truth_4">la personne à qui tu voudrais que ton/ta partenaire ressemble"</string>
+    <string name="truth_5">"la pire NSF qui t'es arrivée"</string>
+    <string name="truth_6">"le moment le plus gênant de ta vie"</string>
+    <string name="truth_7">"la taille de ta bite"</string>
+    
+    <string-array name="Truth">
+        <item>@string/truth_0</item>
+        <item>@string/truth_1</item>
+        <item>@string/truth_2</item>
+        <item>@string/truth_3</item>
+        <item>@string/truth_4</item>
+        <item>@string/truth_5</item>
+        <item>@string/truth_6</item>
+        <item>@string/truth_7</item>
+    </string-array>
+</resources>
