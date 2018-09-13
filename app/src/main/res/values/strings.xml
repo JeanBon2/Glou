@@ -49,6 +49,7 @@
     <string name="sport">"\[SPORT\]"</string>
 
     <string name="add">"Ajouter"</string>
+    <string name="delete">"Supprimer"</string>
     <string name="hint">"Nom du joueur"</string>
     <string name="start_hint">"Appuie sur l'écran à la fin de chaque défi"</string>
     <string name="tutorial">"Tutoriel"</string>
